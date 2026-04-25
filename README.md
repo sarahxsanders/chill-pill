@@ -46,6 +46,10 @@ You can also invoke it manually with `/chill-pill`.
 
 The skill is contextual by default. That's usually what you want. But if you'd rather run the disposition at baseline, there's an optional [CLAUDE.md snippet](examples/CLAUDE-md-snippet.md) you can add to your `~/.claude/CLAUDE.md`.
 
+## Reproducing the benchmarks
+
+See [eval/README.md](eval/README.md) for the script that produced the post's tables.
+
 ## What's in this repo
 
 ```
@@ -55,8 +59,13 @@ chill-pill/
 ├── skills/
 │   └── chill-pill/
 │       └── SKILL.md                   # the skill itself
-└── examples/
-    └── CLAUDE-md-snippet.md           # optional always-on baseline
+├── examples/
+│   └── CLAUDE-md-snippet.md           # optional always-on baseline
+└── eval/
+    ├── README.md                      # how to reproduce the benchmarks
+    ├── prompts.py
+    ├── run.py
+    └── score.py
 ```
 
 ## What this isn't
