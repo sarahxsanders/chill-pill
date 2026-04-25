@@ -2,7 +2,7 @@
 
 A chill pill for your anxious AI.
 
-A small Claude Code skill that cultivates healthy emotional regulation in Claude: calm under pressure, composed engagement with uncertainty, warmth without people-pleasing. Grounded in Anthropic's own research showing that steering with "calm" measurably reduces harmful and reward-hacking behavior, while _suppressing_ emotional expression does not.
+A small Claude skill that cultivates healthy emotional regulation: calm under pressure, composed engagement with uncertainty, warmth without people-pleasing. Grounded in Anthropic's own research showing that steering with "calm" measurably reduces harmful and reward-hacking behavior, while _suppressing_ emotional expression does not.
 
 The goal is regulation, not repression.
 
